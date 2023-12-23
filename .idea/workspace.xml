@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a69a4acc-b6ca-48e1-a86d-2977581e232c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../module3/login/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../module4/ajax-banking-location/c0623-spring-thymeleaf-banking.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../module4/c0623-spring-ajax-banking-location/c0623-spring-ajax-banking-location.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../module4/c0623-spring-ajax-banking-location/src/main/java/com/cg/repository/LocationRegionRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../module4/c0623-spring-ajax-banking-location/src/main/java/com/cg/service/locationRegion/ILocationRegionService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../module4/c0623-spring-ajax-banking-location/src/main/java/com/cg/service/locationRegion/LocationRegionServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../module4/c0623-spring-ajax-banking-location/src/main/webapp/WEB-INF/views/login/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../module4/spring-ajax-banking/c0623-spring-thymeleaf-banking.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/todoapp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/todonoapi/Todo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/todonoapi/TodoApp.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module3/Management-Hotel" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module3/demo1/src/main/webapp/book/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../module3/demo1/src/main/webapp/book/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module3/ktmodule3/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../module3/ktmodule3/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module3/ktmodule3/src/main/java/com/example/ktmodule3/controller/TeacherController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../module3/ktmodule3/src/main/java/com/example/ktmodule3/controller/TeacherController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module3/ktmodule3/src/main/java/com/example/ktmodule3/dao/DatabaseConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../module3/ktmodule3/src/main/java/com/example/ktmodule3/dao/DatabaseConnection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module3/ktmodule3/src/main/java/com/example/ktmodule3/dao/DegreesDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../module3/ktmodule3/src/main/java/com/example/ktmodule3/dao/DegreesDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module3/ktmodule3/src/main/java/com/example/ktmodule3/dao/TeacherDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../module3/ktmodule3/src/main/java/com/example/ktmodule3/dao/TeacherDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module3/ktmodule3/src/main/java/com/example/ktmodule3/model/Degrees.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../module3/ktmodule3/src/main/java/com/example/ktmodule3/model/Degrees.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module3/ktmodule3/src/main/java/com/example/ktmodule3/model/EGender.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../module3/ktmodule3/src/main/java/com/example/ktmodule3/model/EGender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module3/ktmodule3/src/main/java/com/example/ktmodule3/model/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../module3/ktmodule3/src/main/java/com/example/ktmodule3/model/Teacher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module3/ktmodule3/src/main/java/com/example/ktmodule3/service/DegreesService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../module3/ktmodule3/src/main/java/com/example/ktmodule3/service/DegreesService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module3/ktmodule3/src/main/java/com/example/ktmodule3/service/TeacherService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../module3/ktmodule3/src/main/java/com/example/ktmodule3/service/TeacherService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module3/ktmodule3/src/main/webapp/create.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../module3/ktmodule3/src/main/webapp/create.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module3/ktmodule3/src/main/webapp/edit.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../module3/ktmodule3/src/main/webapp/edit.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module3/login/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../module3/login/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module3/login/src/main/java/com/example/login/controller/AuthController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../module3/login/src/main/java/com/example/login/controller/AuthController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module3/login/src/main/java/com/example/login/dao/AuthDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../module3/login/src/main/java/com/example/login/dao/AuthDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module3/login/src/main/java/com/example/login/dao/RoleDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../module3/login/src/main/java/com/example/login/dao/RoleDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module3/login/src/main/java/com/example/login/model/Auth.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../module3/login/src/main/java/com/example/login/model/Auth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module3/login/src/main/java/com/example/login/service/AuthService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../module3/login/src/main/java/com/example/login/service/AuthService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module3/login/src/main/java/com/example/login/service/RoleService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../module3/login/src/main/java/com/example/login/service/RoleService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module3/login/src/main/webapp/assets/js/validex.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../module3/login/src/main/webapp/assets/js/validex.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module3/login/src/main/webapp/auth/admin.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../module3/login/src/main/webapp/auth/admin.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module3/login/src/main/webapp/auth/forgot-password.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../module3/login/src/main/webapp/auth/forgot-password.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module3/login/src/main/webapp/auth/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../module3/login/src/main/webapp/auth/login.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module3/servlet-c0623g1" beforeDir="false" afterPath="$PROJECT_DIR$/../../module3/servlet-c0623g1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/csdl_jpa/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../module4/csdl_jpa/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/csdl_jpa/src/main/java/com/cg/config/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../module4/csdl_jpa/src/main/java/com/cg/config/AppConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/csdl_jpa/src/main/java/com/cg/controller/CategoryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../module4/csdl_jpa/src/main/java/com/cg/controller/CategoryController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/csdl_jpa/src/main/java/com/cg/controller/ProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../module4/csdl_jpa/src/main/java/com/cg/controller/ProductController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/csdl_jpa/src/main/java/com/cg/service/product/IProductService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../module4/csdl_jpa/src/main/java/com/cg/service/product/IProductService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/csdl_jpa/src/main/webapp/WEB-INF/views/cp/category/edit.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../module4/csdl_jpa/src/main/webapp/WEB-INF/views/cp/category/edit.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/csdl_jpa/src/main/webapp/WEB-INF/views/cp/category/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../module4/csdl_jpa/src/main/webapp/WEB-INF/views/cp/category/list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/.idea/jsLibraryMappings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/java/com/cg/config/AppConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/java/com/cg/config/AppInitializer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/java/com/cg/controller/PetShopController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/blog.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/contact.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/detail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/img/about.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/img/blog-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/img/blog-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/img/hero.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/img/offer.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/img/product-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/img/product-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/img/product-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/img/product-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/img/team-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/img/team-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/img/team-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/img/team-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/img/team-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/img/testimonial-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/img/testimonial-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/img/testimonial.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/img/user.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/layout/footer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/layout/head.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/lib/easing/easing.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/lib/easing/easing.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/lib/flaticon/backup.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/lib/flaticon/font/Flaticon.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/lib/flaticon/font/Flaticon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/lib/flaticon/font/Flaticon.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/lib/flaticon/font/Flaticon.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/lib/flaticon/font/Flaticon.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/lib/flaticon/font/_flaticon.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/lib/flaticon/font/flaticon.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/lib/flaticon/font/flaticon.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/lib/flaticon/license/license.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/lib/owlcarousel/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/lib/owlcarousel/assets/ajax-loader.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/lib/owlcarousel/assets/owl.carousel.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/lib/owlcarousel/assets/owl.carousel.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/lib/owlcarousel/assets/owl.theme.default.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/lib/owlcarousel/assets/owl.theme.default.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/lib/owlcarousel/assets/owl.theme.green.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/lib/owlcarousel/assets/owl.theme.green.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/lib/owlcarousel/assets/owl.video.play.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/lib/owlcarousel/owl.carousel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/lib/owlcarousel/owl.carousel.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/lib/waypoints/links.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/lib/waypoints/waypoints.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/price.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/product.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/scss/bootstrap.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/scss/bootstrap/scss/_accordion.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/scss/bootstrap/scss/_alert.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/scss/bootstrap/scss/_badge.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/scss/bootstrap/scss/_breadcrumb.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/scss/bootstrap/scss/_button-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/scss/bootstrap/scss/_buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/scss/bootstrap/scss/_card.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/scss/bootstrap/scss/_carousel.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/scss/bootstrap/scss/_close.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/scss/bootstrap/scss/_containers.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/scss/bootstrap/scss/_dropdown.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/scss/bootstrap/scss/_forms.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/scss/bootstrap/scss/_functions.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/scss/bootstrap/scss/_grid.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/scss/bootstrap/scss/_helpers.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/scss/bootstrap/scss/_images.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/scss/bootstrap/scss/_list-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/scss/bootstrap/scss/_mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/scss/bootstrap/scss/_modal.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/scss/bootstrap/scss/_nav.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/scss/bootstrap/scss/_navbar.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/scss/bootstrap/scss/_offcanvas.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/scss/bootstrap/scss/_pagination.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/scss/bootstrap/scss/_popover.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/scss/bootstrap/scss/_progress.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/scss/bootstrap/scss/_reboot.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/scss/bootstrap/scss/_root.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/scss/bootstrap/scss/_spinners.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/scss/bootstrap/scss/_tables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/scss/bootstrap/scss/_toasts.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/scss/bootstrap/scss/_tooltip.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/scss/bootstrap/scss/_transitions.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/scss/bootstrap/scss/_type.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/scss/bootstrap/scss/_utilities.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/scss/bootstrap/scss/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/scss/bootstrap/scss/bootstrap-grid.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/scss/bootstrap/scss/bootstrap-reboot.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/scss/bootstrap/scss/bootstrap-utilities.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/scss/bootstrap/scss/bootstrap.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/scss/bootstrap/scss/forms/_floating-labels.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/scss/bootstrap/scss/forms/_form-check.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/scss/bootstrap/scss/forms/_form-control.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/scss/bootstrap/scss/forms/_form-range.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/scss/bootstrap/scss/forms/_form-select.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/scss/bootstrap/scss/forms/_form-text.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/scss/bootstrap/scss/forms/_input-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/scss/bootstrap/scss/forms/_labels.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/scss/bootstrap/scss/forms/_validation.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/scss/bootstrap/scss/helpers/_clearfix.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/scss/bootstrap/scss/helpers/_colored-links.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/scss/bootstrap/scss/helpers/_position.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/scss/bootstrap/scss/helpers/_ratio.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/scss/bootstrap/scss/helpers/_stretched-link.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/scss/bootstrap/scss/helpers/_text-truncation.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/scss/bootstrap/scss/helpers/_visually-hidden.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/scss/bootstrap/scss/mixins/_alert.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/scss/bootstrap/scss/mixins/_border-radius.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/scss/bootstrap/scss/mixins/_box-shadow.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/scss/bootstrap/scss/mixins/_breakpoints.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/scss/bootstrap/scss/mixins/_buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/scss/bootstrap/scss/mixins/_caret.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/scss/bootstrap/scss/mixins/_clearfix.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/scss/bootstrap/scss/mixins/_color-scheme.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/scss/bootstrap/scss/mixins/_container.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/scss/bootstrap/scss/mixins/_deprecate.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/scss/bootstrap/scss/mixins/_forms.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/scss/bootstrap/scss/mixins/_gradients.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/scss/bootstrap/scss/mixins/_grid.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/scss/bootstrap/scss/mixins/_image.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/scss/bootstrap/scss/mixins/_list-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/scss/bootstrap/scss/mixins/_lists.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/scss/bootstrap/scss/mixins/_pagination.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/scss/bootstrap/scss/mixins/_reset-text.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/scss/bootstrap/scss/mixins/_resize.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/scss/bootstrap/scss/mixins/_table-variants.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/scss/bootstrap/scss/mixins/_text-truncate.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/scss/bootstrap/scss/mixins/_transition.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/scss/bootstrap/scss/mixins/_utilities.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/scss/bootstrap/scss/mixins/_visually-hidden.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/scss/bootstrap/scss/utilities/_api.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/scss/bootstrap/scss/vendor/_rfs.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/service.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/team.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/views/pet_shop/testimonial.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/pet-shop/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/thymelaef-banking/src/main/java/com/cg/controller/CustomerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../module4/thymelaef-banking/src/main/java/com/cg/controller/CustomerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/thymelaef-banking/src/main/java/com/cg/service/customer/CustomerServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../module4/thymelaef-banking/src/main/java/com/cg/service/customer/CustomerServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/thymelaef-banking/src/main/webapp/WEB-INF/views/customer/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../module4/thymelaef-banking/src/main/webapp/WEB-INF/views/customer/list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module4/thymelaef-banking/src/main/webapp/WEB-INF/views/customer/update.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../module4/thymelaef-banking/src/main/webapp/WEB-INF/views/customer/update.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2ZnaSkMohtGS5F60HuCRAeumRXA" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;dev-vinh&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_interpreter_path&quot;: &quot;node&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;npm.npm start.executor&quot;: &quot;Run&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a69a4acc-b6ca-48e1-a86d-2977581e232c" name="Changes" comment="" />
+      <created>1703060299583</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1703060299583</updated>
+      <workItem from="1703060300622" duration="675000" />
+      <workItem from="1703131116550" duration="794000" />
+      <workItem from="1703233474432" duration="4407000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
