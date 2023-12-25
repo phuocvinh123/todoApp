@@ -1,8 +1,8 @@
 import { BrowserRouter, Link, Route, Routes } from 'react-router-dom';
 import './App.css';
 // import TodoApp from "./components/Todoapi/TodoApp";
-// import { ToastContainer } from 'react-toastify';
-// import 'react-toastify/dist/ReactToastify.css';
+import { ToastContainer } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
 // import router1 from './components/router1/router1';
 // import Home from './components/router1/Home';
 // import About from './components/router1/About';
@@ -48,6 +48,7 @@ function App() {
         <Route path="/product" element={<Product />} />
       </Routes> */}
       <Customer/>
+        <ToastContainer icon={false} />
 </>
   );
 }
